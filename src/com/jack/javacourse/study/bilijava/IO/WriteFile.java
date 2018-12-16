@@ -20,7 +20,9 @@ public class WriteFile {
             f.createNewFile();
         }
         BufferedWriter bw = new BufferedWriter(new FileWriter(f));
-        bw.write("you guess what i wrote");
+        for(int i=0;i<10;i++){
+            bw.write("you guess what i wrote"+i+"\r\n");
+        }
         bw.close();
         System.out.println("done!");
     }
