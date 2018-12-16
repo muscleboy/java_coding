@@ -6,14 +6,14 @@ import java.io.IOException;
 public class FileIO {
     public static void main(String[] args) throws IOException {
         // newfile：创建文件夹
-        File myfile = new File("newfile/1.txt");
+        File myfile = new File("newfile");
         if(!myfile.exists()){
-            // myfile.mkdir(); --->创建文件夹
+             myfile.mkdir(); //--->创建文件夹
             // 创建文件1.txt
-            myfile.createNewFile();
-            System.out.println("文件创建成功");
+//            myfile.createNewFile();
+            System.out.println("文件夹创建成功");
         }else {
-            System.out.println("文件存在");
+            System.out.println("文件夹存在");
         }
     }
 }
