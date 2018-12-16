@@ -13,6 +13,7 @@ public class WriteFile {
         //3.创建读写缓存对象
         //4.写入内容
         //5.关闭资源
+        //先要有文件夹才能在文件夹下创建文件
         File f = new File("newfile/1.txt");
         if(!f.exists()){
             System.out.println("不存在，创建文件");
@@ -21,5 +22,6 @@ public class WriteFile {
         BufferedWriter bw = new BufferedWriter(new FileWriter(f));
         bw.write("you guess what i wrote");
         bw.close();
+        System.out.println("done!");
     }
 }
