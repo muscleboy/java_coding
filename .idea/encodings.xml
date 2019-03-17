@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
