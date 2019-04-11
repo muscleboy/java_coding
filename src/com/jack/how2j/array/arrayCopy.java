@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Create with IDEA.
  *
  * @Package: com.jack.how2j.array
- * @Description:
+ * @Description: 数组复制
  * @Date: 2019/4/11 20:15
  * @Author: Wyj
  */
