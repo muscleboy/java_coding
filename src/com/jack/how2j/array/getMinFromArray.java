@@ -1,11 +1,11 @@
-package com.jack.how2j;
+package com.jack.how2j.array;
 
 
 /**
  * Create with IDEA.
  *
  * @Package: com.jack.how2j
- * @Description:
+ * @Description: 获取数组的最小值
  * @Date: 2019/4/11 09:12
  * @Author: Wyj
  */
