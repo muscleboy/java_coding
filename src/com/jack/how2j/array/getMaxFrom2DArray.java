@@ -12,6 +12,9 @@ public class getMaxFrom2DArray {
     public static void main(String[] args) {
 
         int[][] a = new int[5][5];
+        int max = -1;
+        int target_i = -1;
+        int target_j = -1;
 
         for (int i = 0; i < a.length; i++) {
             for (int j = 0; j < a.length; j++) {
@@ -19,10 +22,36 @@ public class getMaxFrom2DArray {
             }
         }
 // 输出
+
+//        for (int i = 0; i < a.length; i++) {
+//            for (int j = 1; j < a.length - 1; j++) {
+//                System.out.print(a[i][j] + " ");
+//            }
+//        }
+        for (int[] row : a) {
+            for (int item : row) {
+                System.out.print(item + "\t");
+            }
+            System.out.println();
+        }
+
+        System.out.println();
+
         for (int i = 0; i < a.length; i++) {
-            for (int j = 0; j < a.length; j++) {
-                System.out.print(a[i][j] + " ");
+            for (int j = 1; j < a[i].length - 1; j++) {
+                if (a[i][j] > max){
+                    max = a[i][j];
+                    target_i = i;
+                    target_j = j;
+                }
             }
         }
+
+        System.out.println(max+"下标: "+"["+target_i+"]"+"["+target_j+"]");
+//        for (int i = 0; i < a.length; i++) {
+//            for (int j = 1; j < a.length; j++) {
+//                System.out.print(a[]);
+//            }
+//        }
     }
 }
