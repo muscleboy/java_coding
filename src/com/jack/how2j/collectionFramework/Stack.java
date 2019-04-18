@@ -9,4 +9,26 @@ package com.jack.how2j.collectionFramework;
  * @Author: Wyj
  */
 public interface Stack {
+
+    /**
+    * @Description: 添加到最后
+    * @Param: [h]
+    * @return: void
+    */
+    public void push(hero h);
+
+    /**
+    * @Description: 取出最后一个
+    * @Param: []
+    * @return: com.jack.how2j.collectionFramework.hero
+    */
+    public hero pull();
+
+    /**
+    * @Description: 查看最后一个
+    * @Param: []
+    * @return: com.jack.how2j.collectionFramework.hero
+    */
+    public hero peek();
+
 }
