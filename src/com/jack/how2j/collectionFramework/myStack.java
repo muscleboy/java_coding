@@ -5,8 +5,8 @@ package com.jack.how2j.collectionFramework;
  *
  * @Package: com.jack.how2j.collectionFramework
  * @Description:
- * @Date: 2019/4/17 20:09
+ * @Date: 2019/4/18 21:00
  * @Author: Wyj
  */
-public class Test {
+public class myStack {
 }
