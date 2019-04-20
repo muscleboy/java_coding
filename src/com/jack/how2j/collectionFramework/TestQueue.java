@@ -6,7 +6,9 @@ import java.util.LinkedList;
  * Create with IDEA.
  *
  * @Package: com.jack.how2j.collectionFramework
- * @Description:
+ * @Description: offer: 在最后添加元素
+ *               poll: 取出第一个元素
+ *               peak: 查看第一个元素
  * @Date: 2019/4/18 20:40
  * @Author: Wyj
  */
