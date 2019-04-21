@@ -26,9 +26,15 @@ public class travelHashSet {
             System.out.println(item);
         }
 
+        // 迭代器
         Iterator<Integer> it = hs.iterator();
         while (it.hasNext()) {
             System.out.println(it.next());
+        }
+
+        // for迭代迭代器
+        for(Iterator<Integer> iterator = hs.iterator(); iterator.hasNext();){
+            System.out.println("for循环迭代器: " + iterator.next());
         }
     }
 }
