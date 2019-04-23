@@ -9,4 +9,17 @@ package com.jack.how2j.collectionFramework;
  * @Author: Wyj
  */
 public class Entry {
+
+    public Object key;
+    public Object value;
+
+    public Entry(Object key, Object value) {
+        super();
+        this.key = key;
+        this.value = value;
+    }
+
+    public String toString(){
+        return "[key = " + key + ", value = " + value + "]";
+    }
 }
