@@ -9,4 +9,7 @@ package com.jack.how2j.collectionFramework;
  * @Author: Wyj
  */
 public interface IHashMap {
+
+    public void put(String key, Object value);
+    public Object get(String key);
 }
