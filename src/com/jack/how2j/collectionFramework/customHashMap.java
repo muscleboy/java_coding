@@ -38,7 +38,7 @@ public class customHashMap implements IHashMap{
         boolean found = false;
         for (Entry entry : list) {
             // 如果找到，则替换
-            if (entry.key.equals(key)) {
+            if (key.equals(entry.key)) {
                 entry.value = value;
                 found = true;
                 break;
@@ -95,16 +95,73 @@ public class customHashMap implements IHashMap{
         return result.toString();
     }
 
+    /**
+    * @Description: 通过for循环查找
+    * @Param: [list]
+    * @return: java.util.List<java.lang.String>
+    */
+    public static List<Heros> findItemByFor(List<Heros> list){
 
+        long start = System.currentTimeMillis();
+        List<Heros> result = new ArrayList<>();
+        for (Heros h : list) {
+            if (h.name.equals("hero-5555")) {
+                result.add(h);
+            }
+        }
+        long end = System.currentTimeMillis();
+        System.out.printf("通过for查找，找到了%d个，花费了%d毫秒%n", result.size(),  end - start);
+        return result;
+    }
+
+    /**
+    * @Description: 通过自己实现的HashMap查找
+    * @Param: [map]
+    * @return: java.util.List<java.lang.String>
+    */
+    public static List<Heros> findItemByMap(customHashMap map){
+
+        long start = System.currentTimeMillis();
+        List<Heros> result = (List<Heros>) map.get("hero-5555");
+        long end = System.currentTimeMillis();
+        System.out.printf("通过Map查找，找到了%d个, 花费了%d毫秒%n", result.size(), end - start);
+        return result;
+    }
+
+    public static int random(){
+        return ((int)(Math.random()*9000)+1000);
+    }
 
     public static void main(String[] args) {
 
-        customHashMap map = new customHashMap();
-        map.put("t", "坦克");
-        map.put("ADC", "物理英雄");
-        map.put("apc", "魔法英雄");
-        map.put("t", "坦克2");
+//        customHashMap map = new customHashMap();
+//        map.put("t", "坦克");
+//        map.put("ADC", "物理英雄");
+//        map.put("apc", "魔法英雄");
+//        map.put("t", "坦克2");
+//
+//        System.out.println(map);
 
-        System.out.println(map);
+        List<Heros> hs = new ArrayList<>();
+        System.out.println("初始化开始");
+        for (int i = 0; i < 1000 * 1000; i++) {
+            Heros h = new Heros("hero-" + random());
+            hs.add(h);
+        }
+
+        customHashMap map = new customHashMap();
+
+       for (Heros h : hs) {
+           List<Heros> list = (List<Heros>) map.get(h.name);
+           if (list == null) {
+               list = new ArrayList<>();
+               map.put(h.name, list);
+           }
+           list.add(h);
+       }
+
+        System.out.println("初始化完成，开始查找。。。。");
+        findItemByFor(hs);
+        findItemByMap(map);
     }
 }
