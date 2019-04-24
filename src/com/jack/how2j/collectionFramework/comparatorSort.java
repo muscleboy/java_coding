@@ -26,7 +26,11 @@ public class comparatorSort {
             @Override
             public int compare(Heros o1, Heros o2) {
                 if (o1.damage > o2.damage) {
-                    // 正数表示 o1 > o2;
+//                                   |        A>B       |       A<B        |
+//
+//                    return 1       |        升        |         降        |
+//
+//                    return -1      |        降        |         升        |
                     return 1;
                 }else {
                     return -1;
