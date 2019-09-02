@@ -7,137 +7,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="282f5f0c-9676-45cc-a05f-b712f71ebf06" name="Default Changelist" comment="java io">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/how2j/io/FileMostUseFun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/how2j/io/findMaxMinFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/how2j/swing/firstSwing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/how2j/swing/mainThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/how2j/swing/openInLastLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/DormSysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/GUI/dormMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/HelloWorld_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/HelloWorld_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaGuide/testField.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/AD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/AP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Abs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Access.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Accesss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/ArrayCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/ArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/ArrayToString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Array_reversed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Array_sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/CA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/CB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Convert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/CopyArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/DataTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/DataTest_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/FingMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Healer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Hero_test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Hero_test1$ADHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Hero_test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/IA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/IB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/IC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Inheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/InterfaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/LinkedLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Local.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/MultiTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/MyStacks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/OverrideTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Poly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Q.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Real.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/SelectedSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Simple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Spider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/SubCla.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/SuperCla.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/Support.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/ThisTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/W.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/addArmor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/helloworld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/class_object/pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/how2j/lanqiao_ex/splitInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/fkjava/Part15/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/fkjava/Part15/2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/fkjava/Part15/FileInputStreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/fkjava/Part15/ioTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/fkjava/Part15/ioTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/FastestPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Final/AccomodationSys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part4/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part4/bankAccounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part5/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part5/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part5/PetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/Area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/Complex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/ComplexTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/Globe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/MainBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/NetworkCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/PCI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/PciExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/ShapeCalculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/SoundCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/Volumn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/getAreaVolumn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part6/testShape6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part7/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part7/CustomException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part7/ExceptionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part7/ExceptionTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part7/NegativeAmountException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/java_lab/Part7/TestException2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/BWM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/Benz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/ICar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/IDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/InnerClass$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/Part7_Exception/FileException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/Part7_Exception/NoException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/Part7_Exception/TestException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/Part7_Exception/TextException1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/ThreadTest/KillThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/ThreadTest/KillThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/ThreadTest/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/ThreadTest/TestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/ThreadForExtend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/ThreadForExtend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/ThreeThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/ThreeThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/newThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/newThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jack/javacourse/study/fkjava/Part15/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/fkjava/Part15/2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Final/sqlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Final/sqlTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/Part7_Exception/Part3/LibSys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/Part7_Exception/Part3/LibSys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/AD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/AD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/AP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Hero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Hero_test1$ADHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Hero_test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/Spider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloJava/com/jack/how2j/class_object/pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/fkjava/Part15/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/fkjava/Part15/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/jack/javacourse/study/javabook/Part7_Exception/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/Lambda/HeroChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/Lambda/HeroChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/array/arrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/array/arrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/array/selectSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/array/selectSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/array/sortPratice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/array/sortPratice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/AD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/AD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/ADAPHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/ADAPHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/ADHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/ADHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/APHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/APHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Hero_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Hero_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Mortal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Mortal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/Spider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/enumPratice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/enumPratice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/h.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/h.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/heroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/heroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/class_object/singletonMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/class_object/singletonMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/HashMapAndHashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/HashMapAndHashtable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/HashSetPratice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/HashSetPratice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/arrayListForHeroAndItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/arrayListForHeroAndItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/binaryTreeInsertData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/binaryTreeInsertData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/collectionsPratice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/collectionsPratice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparationForOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparationForOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/customHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/customHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/findItemFromHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/findItemFromHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/hashMapPerformanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/hashMapPerformanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/insertFirstTimeCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/insertFirstTimeCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/loopArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/loopArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/middleTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/middleTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/positionTimeCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/positionTimeCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/io/FileInputStreamCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/io/FileInputStreamCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/io/FileOutputStreamCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/io/FileOutputStreamCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/io/data2File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/io/data2File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/io/splitFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/io/splitFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jack/how2j/qrCode/QRCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jack/how2j/qrCode/QRCodeUtil.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,6 +74,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HelloWorld$getMinFromArray.ic" NAME="getMinFromArray Coverage Results" MODIFIED="1554946188590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jack.how2j.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/HelloWorld$RecTravelSubDirectory.ic" NAME="RecTravelSubDirectory Coverage Results" MODIFIED="1552813540757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jack.how2j.io.*</FILTER>
     </SUITE>
@@ -155,22 +85,24 @@
     <session id="-692014037">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="61" />
-          <entry key="project.open.time.0" value="12" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="89" />
+          <entry key="project.open.time.0" value="14" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="9" />
-          <entry key="project.open.time.5" value="27" />
-          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="20" />
+          <entry key="project.open.time.5" value="39" />
+          <entry key="project.open.time.6" value="9" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="63" />
+          <entry key="project.opened" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bankAccounts" value="1" />
           <entry key="element-list" value="1" />
-          <entry key="java" value="215" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="400" />
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="txt" value="71" />
@@ -178,8 +110,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="215" />
+          <entry key="JAVA" value="400" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="72" />
           <entry key="UML" value="1" />
@@ -187,17 +120,37 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="33" />
+          <entry key="dummy" value="54" />
           <entry key="ft" value="3" />
-          <entry key="java" value="43516" />
+          <entry key="java" value="80315" />
           <entry key="txt" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="43516" />
-          <entry key="PLAIN_TEXT" value="150" />
+          <entry key="JAVA" value="80315" />
+          <entry key="PLAIN_TEXT" value="171" />
           <entry key="VTL" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1579776251">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="30" />
         </counts>
       </usages-collector>
     </session>
@@ -205,73 +158,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/swing/firstSwing.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jack/socket/SocketServerM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/swing/openInLastLocation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            <state relative-caret-position="452">
+              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/swing/mainThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io/FileMostUseFun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io/findMaxMinFiles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io/TravelSubDirectory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io/RecTravelSubDirectory.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jack/socket/SocketClientM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="103">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -281,6 +183,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="yet_unknown" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -290,6 +193,12 @@
     <findStrings>
       <find>Out</find>
       <find>System.Out</find>
+      <find>3f</find>
+      <find>wi</find>
+      <find>dh</find>
+      <find>hashcode</find>
+      <find>item</find>
+      <find>put</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -298,57 +207,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/kfjava/part_6/AnonymousTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/kfjava/part_6/AnonymousInner.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Final/AccomodationSys.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/fkjava/ioTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/fkjava/Part15/ioTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/fkjava/Part15/ioTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/fkjava/Part15/FileInputStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/Part7_Exception/Part3/LibSys.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Final/sqlTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/IO/FileIO.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/IO/WriteFile.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/IO/ReadFile.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/hashSetTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/TreeSetTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/QueueTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/ProrityQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/DequeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/ListTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/MapTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/ProgMain.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/MyThreadForRunnable.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/MyThreadForThread.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/MyThreadInterupted.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/Part_String/DailiUseString.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/ThreadTest/KillThread.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/ThreadTest/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/CurruntThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/newThread.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/ThreadForExtend.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/ThreeThread.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/StringTest.java" />
-        <option value="$PROJECT_DIR$/3.txt" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent2.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent3.java" />
-        <option value="$PROJECT_DIR$/1.txt" />
-        <option value="$PROJECT_DIR$/2.txt" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/DormSysTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/GUI/calArea.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/GUI/dormSys.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/GUI/dormMain.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/GUI/dormLogin.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/swing/firstSwing.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/swing/mainThread.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/swing/openInLastLocation.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/io/FileMostUseFun.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/io/findMaxMinFiles.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/io/TravelSubDirectory.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/how2j/io/RecTravelSubDirectory.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/deleteArrayListData.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestDeque.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/arrayListForHeroAndItem.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/Stack.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/myStack.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/insertTimeCompare.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/insertFirstTimeCompare.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/positionTimeCompare.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/insertLastTimeCompare.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/insertMiddleTimeCompare.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/binaryTreeInsertData.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/leftTravel.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/middleTravel.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/hashMapPerformanceTest.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestHashSet.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/noOrderHashSet.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/travelHashSet.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/HashSetPratice.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/collectionsPratice.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestCollections.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparationForOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparationForRepeat.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/generateNoRepeatRandomNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/HashMapAndHashtable.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/reverseHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/hashsetAndLinkedHashSetAndTreeSet.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/noRepeatButInOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/findItemFromList.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/findItemFromHashSet.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/findItemFromHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/Entry.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/IHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/customHashcode.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/customHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparationSort.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/Heros.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/ImptComparableInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparatorSort.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/customOrderTreeSet.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/Lambda/HeroChecker.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/how2j/Lambda/TestLambda.java" />
+        <option value="$PROJECT_DIR$/src/javaGuide.java" />
+        <option value="$PROJECT_DIR$/src/javaGuide/testField.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/socket/ServerSocket.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/socket/SocketServer.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/socket/SocketClient.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/socket/SocketClientM.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/socket/SocketServerM.java" />
       </list>
     </option>
   </component>
@@ -358,11 +267,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="861" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="608" />
     <option name="y" value="23" />
     <option name="width" value="1503" />
-    <option name="height" value="1056" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -370,65 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jack" type="462c0819:PsiDirectoryNode" />
-              <item name="how2j" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jack" type="462c0819:PsiDirectoryNode" />
-              <item name="how2j" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HelloWorld" type="58d84e3e:PackageViewProjectNode" />
-              <item name="HelloWorld" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="58d84e3e:PackageViewProjectNode" />
-              <item name="HelloWorld" type="616d4139:PackageViewModuleNode" />
-              <item name="com.jack" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="58d84e3e:PackageViewProjectNode" />
-              <item name="HelloWorld" type="616d4139:PackageViewModuleNode" />
-              <item name="com.jack" type="1f31426a:PackageElementNode" />
-              <item name="javacourse.study" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -475,27 +325,90 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jack" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWorld" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HelloWorld" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HelloWorld" type="616d4139:PackageViewModuleNode" />
+              <item name="com.jack" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HelloWorld" type="616d4139:PackageViewModuleNode" />
+              <item name="com.jack" type="1f31426a:PackageElementNode" />
+              <item name="javacourse.study" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="bank&#9;FILE&#9;file:///Users/mac/java/HelloWorld/src/com/jack/javacourse/study/java_lab/Part4/bankAccounts.java&#10;System.out&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="random&#9;PSI&#9;JAVA://com.jack.how2j.collectionFramework.HashSetPratice#generateRandomString&#10;equal&#9;PSI&#9;JAVA://com.jack.how2j.class_object.Item#equals&#10;qrcode&#9;PSI&#9;JAVA://com.jack.how2j.qrCode.QRCodeUtil&#10;bank&#9;FILE&#9;file:///Users/mac/java/HelloWorld/src/com/jack/javacourse/study/java_lab/Part4/bankAccounts.java&#10;System.out&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552814642439" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567413139550" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home!/java.datatransfer" />
       <recent name="$PROJECT_DIR$/src/com/jack/javacourse/study/fkjava/Part15" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jack.socket" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part5" />
@@ -513,13 +426,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RecTravelSubDirectory">
-    <configuration name="FileMostUseFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jack.how2j.io.FileMostUseFun" />
+  <component name="RunManager" selected="Application.SocketClientM">
+    <configuration name="SocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jack.socket.SocketClient" />
       <module name="HelloJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jack.how2j.io.*" />
+          <option name="PATTERN" value="com.jack.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -527,12 +440,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecTravelSubDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jack.how2j.io.RecTravelSubDirectory" />
+    <configuration name="SocketClientM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jack.socket.SocketClientM" />
       <module name="HelloJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jack.how2j.io.*" />
+          <option name="PATTERN" value="com.jack.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -540,12 +453,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TravelSubDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jack.how2j.io.TravelSubDirectory" />
+    <configuration name="SocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jack.socket.SocketServer" />
       <module name="HelloJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jack.how2j.io.*" />
+          <option name="PATTERN" value="com.jack.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -553,12 +466,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findMaxMinFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jack.how2j.io.findMaxMinFiles" />
+    <configuration name="SocketServerM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jack.socket.SocketServerM" />
       <module name="HelloJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jack.how2j.io.*" />
+          <option name="PATTERN" value="com.jack.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -566,12 +479,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="openInLastLocation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jack.how2j.swing.openInLastLocation" />
+    <configuration name="testField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaGuide.testField" />
       <module name="HelloJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jack.how2j.swing.*" />
+          <option name="PATTERN" value="javaGuide.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -589,21 +502,25 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.openInLastLocation" />
-      <item itemvalue="Application.FileMostUseFun" />
-      <item itemvalue="Application.findMaxMinFiles" />
-      <item itemvalue="Application.TravelSubDirectory" />
-      <item itemvalue="Application.RecTravelSubDirectory" />
+      <item itemvalue="Application.testField" />
+      <item itemvalue="Application.SocketServer" />
+      <item itemvalue="Application.SocketClient" />
+      <item itemvalue="Application.SocketServerM" />
+      <item itemvalue="Application.SocketClientM" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecTravelSubDirectory" />
-        <item itemvalue="Application.TravelSubDirectory" />
-        <item itemvalue="Application.findMaxMinFiles" />
-        <item itemvalue="Application.FileMostUseFun" />
-        <item itemvalue="Application.openInLastLocation" />
+        <item itemvalue="Application.SocketClientM" />
+        <item itemvalue="Application.SocketServerM" />
+        <item itemvalue="Application.SocketClient" />
+        <item itemvalue="Application.SocketServer" />
+        <item itemvalue="Application.testField" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,ALPHA_COMPARATOR,VISIBILITY_SORTER" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -677,12 +594,44 @@
       <workItem from="1552386400586" duration="2404000" />
       <workItem from="1552467571407" duration="8000" />
       <workItem from="1552736532665" duration="2048000" />
-      <workItem from="1552793087028" duration="4775000" />
+      <workItem from="1552793087028" duration="9995000" />
+      <workItem from="1552827912038" duration="404000" />
+      <workItem from="1552893262243" duration="2305000" />
+      <workItem from="1552905916823" duration="85000" />
+      <workItem from="1554944998769" duration="3639000" />
+      <workItem from="1554981146142" duration="6495000" />
+      <workItem from="1555066099552" duration="4934000" />
+      <workItem from="1555120477196" duration="4850000" />
+      <workItem from="1555143093867" duration="12332000" />
+      <workItem from="1555315142152" duration="12034000" />
+      <workItem from="1555403064375" duration="819000" />
+      <workItem from="1555416940581" duration="544000" />
+      <workItem from="1555490117576" duration="12461000" />
+      <workItem from="1555587368946" duration="6672000" />
+      <workItem from="1555632609438" duration="1126000" />
+      <workItem from="1555674784409" duration="1100000" />
+      <workItem from="1555682941345" duration="662000" />
+      <workItem from="1555719644035" duration="299000" />
+      <workItem from="1555720657366" duration="293000" />
+      <workItem from="1555754219924" duration="4449000" />
+      <workItem from="1555760094513" duration="3896000" />
+      <workItem from="1555764238979" duration="904000" />
+      <workItem from="1555835220775" duration="8075000" />
+      <workItem from="1555893637312" duration="4873000" />
+      <workItem from="1555921907160" duration="12143000" />
+      <workItem from="1555984750591" duration="1884000" />
+      <workItem from="1556008051336" duration="14426000" />
+      <workItem from="1556103938628" duration="4681000" />
+      <workItem from="1556159857159" duration="2067000" />
+      <workItem from="1558876240167" duration="907000" />
+      <workItem from="1558926923248" duration="4000" />
+      <workItem from="1567381932360" duration="3682000" />
+      <workItem from="1567408199709" duration="5027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205202000" />
+    <option name="totallyTimeSpent" value="348494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -694,11 +643,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="861" y="23" width="1503" height="1056" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15126626" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.116036505" visible="true" weight="0.10380835" />
+      <window_info id="Structure" order="1" sideWeight="0.88396347" side_tool="true" weight="0.25188228" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -706,17 +655,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32740214" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2731137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36238045" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989733" weight="0.40920097" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49965778" weight="0.22645503" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32977462" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32943925" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.2614458" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.19341126" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32910052" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.30712008" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32991102" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010267" side_tool="true" weight="0.18835978" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3060241" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -726,6 +674,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32991102" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,345 +688,341 @@
     <option name="LAST_COMMIT_MESSAGE" value="java io" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/IO/FileIO.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="262">
+          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/IO/WriteFile.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/HashMapAndHashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/collectionsPratice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/travelHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/屏幕快照 2018-12-23 16.56.44.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/QueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/DequeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="148" column="17" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="138" selection-start-line="138" selection-end-line="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/TreeSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="549" column="20" lean-forward="true" selection-start-line="549" selection-start-column="20" selection-end-line="549" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/MapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Final/AccomodationSys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/Part_String/DailiUseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/ProgMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/MyThreadInterupted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/ProrityQueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/ThreadTest/KillThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/ThreadTest/TestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/newThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/CurruntThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/ThreeThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/CoreJava/ThreadForExtend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/MyThreadForThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/bilijava/AdvanceJava/MyThreadForRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JTextField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="195" column="11" selection-start-line="195" selection-start-column="11" selection-end-line="195" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/testTmp.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/ffa.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/GUI/dormLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part4/bankAccounts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/DormSysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/javabook/GUI/dormMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/javacourse/study/java_lab/Part8/mergeFileContent3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io.java" />
-    <entry file="file://$PROJECT_DIR$/3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/swing/firstSwing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/swing/openInLastLocation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/MyStringBufferByColletion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="98" column="55" selection-start-line="98" selection-start-column="55" selection-end-line="98" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/positionTimeCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/loopArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/middleTravel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/hashsetAndLinkedHashSetAndTreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/reverseHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="3098" column="25" selection-start-line="3098" selection-start-column="25" selection-end-line="3098" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparationForRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparationForOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="25" column="51" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/MyStringBufferByColletion2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/TestCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="126" column="69" selection-start-line="126" selection-start-column="69" selection-end-line="126" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/noRepeatButInOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/generateNoRepeatRandomNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/HashSetPratice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="547" column="16" selection-start-line="547" selection-start-column="13" selection-end-line="547" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="95" column="7" lean-forward="true" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/IHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/hero.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/customHashcode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/comparatorSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/findItemFromList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/Entry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/Lambda.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/customHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="148" column="51" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/findItemFromHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaGuide.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/Heros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/ImptComparableInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/collectionFramework/customOrderTreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloJava.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaGuide/testField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/Lambda/HeroChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/swing/mainThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="173">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/socket.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/Lambda/TestLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jack/socket/SocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io/FileMostUseFun.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jack/socket/SocketClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="-239">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io/findMaxMinFiles.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jack/socket/SocketServerM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="452">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io/TravelSubDirectory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jack/socket/SocketClientM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/how2j/io/RecTravelSubDirectory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="103">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1112,6 +1057,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>qrcode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1135,12 +1081,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>HelloWorld</last-edited>
+          <last-edited>HelloJava</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1148,6 +1093,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>QRCode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

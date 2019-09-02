@@ -1,32 +1,82 @@
 package com.jack.how2j.class_object;
 
-interface AD{
-    public void physicAttack();
-}
 
-interface  AP{
-    void magicAttack();
-}
+public class Hero{
 
-public class Hero implements AD,AP{
+    private String name;
+    float hp;
+    float armor;
+    int moveSpeed;
+    public static final int killNum = 12;
 
-    String name;
-    int hp;
-    double armor;
-
-    public void physicAttack(){
-        System.out.println("物理攻击");
+    private static void battleWin(){
+        System.out.println("battle win!");
     }
-    public void magicAttack(){
-        System.out.println("魔法攻击");
+
+    class BattleScore{
+
+        int kill;
+        int die;
+        int assit;
+
+        public void legendary(){
+
+            if (kill >= 8){
+                System.out.println(name + " 超神了");
+            }else {
+                System.out.println(name + "没超神");
+            }
+        }
+    }
+
+    static class EnemyCrystal{
+
+        int hp = 4000;
+        public void checkIfVictory(){
+
+            if (hp == 0){
+                Hero.battleWin();
+            }
+
+        }
+
     }
 
     public static void main(String[] args) {
-        Hero p = new Hero();
-        Hero m = new Hero();
-
-        p.physicAttack();
-        m.magicAttack();
+        Hero.EnemyCrystal crystal = new Hero.EnemyCrystal();
+        crystal.hp = 0;
+        crystal.checkIfVictory();
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -12,23 +12,23 @@ import java.util.LinkedList;
  * @Date: 2019/4/18 20:40
  * @Author: Wyj
  */
-public class TestQueue {
-
-    public static void main(String[] args) {
-
-        LinkedList<hero> queue = new LinkedList<>();
-
-        for (int i = 0; i < 5; i++) {
-            queue.add(new hero("hero-" + i));
-        }
-        System.out.println(queue);
-
-        queue.offer(new hero("offer hero"));
-        System.out.println(queue);
-
-        System.out.println(queue.poll());
-        // hero-0已经被取出，peek得到的就是peek;
-        System.out.println(queue.peek());
-    }
-
-}
+//public class TestQueue {
+//
+//    public static void main(String[] args) {
+//
+//        LinkedList<hero> queue = new LinkedList<>();
+//
+//        for (int i = 0; i < 5; i++) {
+//            queue.add(new hero("hero-" + i));
+//        }
+//        System.out.println(queue);
+//
+//        queue.offer(new hero("offer hero"));
+//        System.out.println(queue);
+//
+//        System.out.println(queue.poll());
+//        // hero-0已经被取出，peek得到的就是peek;
+//        System.out.println(queue.peek());
+//    }
+//
+//}

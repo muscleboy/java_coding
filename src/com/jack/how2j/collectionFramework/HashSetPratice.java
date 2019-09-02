@@ -1,7 +1,6 @@
 package com.jack.how2j.collectionFramework;
 
 import java.util.HashSet;
-import java.util.Random;
 
 /**
  * Create with IDEA.
@@ -53,8 +52,9 @@ public class HashSetPratice {
 
     public static void main(String[] args) {
 
-        for (int i = 0; i < generateRandomString(2).length; i++) {
-            System.out.print(generateRandomString(2)[i] + " ");
+        String ss[] = generateRandomString(2);
+        for (int i = 0; i < ss.length; i++) {
+            System.out.print(ss[i] + " ");
             // 每行20个
             if (19 == i % 20) {
                 System.out.println();
@@ -63,10 +63,10 @@ public class HashSetPratice {
 
         HashSet<String> result = new HashSet<>();
 
-        for (String s1 : generateRandomString(2)) {
+        for (String s1 : ss) {
             // 记录重复的次数，=1表示匹配到本身，>=2重复
             int repeat = 0;
-            for (String s2 : generateRandomString(2)) {
+            for (String s2 : ss) {
                 if (s1.equalsIgnoreCase(s2)) {
                     repeat ++;
                     // 超过两次就算重复，> 2的就不需要比较了

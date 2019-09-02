@@ -4,21 +4,47 @@ public class Item {
     String name;
     int price;
 
-    public static void main(String[] args) {
-        Item xp = new Item();
-        Item cx = new Item();
-        Item cj = new Item();
-
-        xp.name = "血瓶";
-        xp.price = 50;
-        System.out.println(xp.name+": " + xp.price);
-
-        cx.name = "草鞋";
-        cx.price = 300;
-        System.out.println(cx.name+": " + cx.price);
-
-        cj.name = "长剑";
-        cj.price = 350;
-        System.out.println(cj.name+": " + cj.price);
+    public String toString(){
+        System.out.println(name);
+        return name;
     }
+
+    public void finalize(){
+        System.out.println("这个对象正在被回收");
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof Item){
+            Item i = (Item) obj;
+            if (i.price == this.price){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public static void main(String[] args) {
+//        Item i = new Item();
+//        i.name = "jj";
+//        i.price = 200;
+//
+//        Item i1 = new Item();
+//        i1.name = "jack";
+//        i1.price = 200;
+//
+//        i.toString();
+//        i1.toString();
+//
+//        System.out.println(i.equals(i1));
+
+        Item i = new Item(){
+            public boolean dispoable(){
+                System.out.println("使用消失");
+                return false;
+            }
+        };
+//        System.out.println(i.dispoable());
+    }
+
 }

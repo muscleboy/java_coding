@@ -2,6 +2,7 @@ package com.jack.how2j.collectionFramework;
 
 
 import java.util.HashMap;
+import java.util.HashSet;
 
 /**
  * Create with IDEA.
@@ -29,6 +30,7 @@ public class findItemFromHashMap {
             hm.get("hero-2000000");
             long end = System.currentTimeMillis();
             System.out.printf("第%d次查找，花了%d毫秒%n", i, end - start);
+            System.out.println();
         }
     }
 }

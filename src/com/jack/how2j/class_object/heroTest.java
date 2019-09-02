@@ -9,4 +9,7 @@ package com.jack.how2j.class_object;
  * @Author: Wyj
  */
 public class heroTest {
+
+
+
 }

@@ -9,4 +9,15 @@ package javaGuide;
  * @Author: Wyj
  */
 public class testField {
+
+    public boolean equals(Object object){
+
+        return (this == object);
+    }
+
+    public static void main(String[] args) {
+
+        testField t = new testField();
+        System.out.println(t.equals("a"));
+    }
 }

@@ -14,14 +14,19 @@ import java.util.List;
  */
 
 
-public class Test {
+public class loopArrayList {
 
     public static void main(String[] args) {
 
         List<hero> hs = new ArrayList<>();
 
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 3; i++) {
             hs.add(new hero("name" + i));
+        }
+
+        System.out.println("for循环遍历ArrayList元素");
+        for (int i = 0; i < hs.size(); i++) {
+            System.out.println(hs.get(i));
         }
 
         System.out.println("迭代器输出ArrayList的元素");

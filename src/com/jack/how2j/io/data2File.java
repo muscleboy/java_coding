@@ -12,10 +12,10 @@ import java.io.IOException;
  * @Date: 2019/3/17 17:49
  * @Author: Wyj
  */
-public class date2File {
+public class data2File {
     public static void main(String[] args) {
        try{
-           File f = new File("/Users/mac/Python_coding/java/a/f/v/s/f/g/1.txt");
+           File f = new File("/Users/mac/Python_coding/java/1.txt");
            // 得到 xxx/java
            File dir = f.getParentFile();
            if(! dir.exists()){

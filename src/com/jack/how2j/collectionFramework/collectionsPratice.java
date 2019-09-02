@@ -35,6 +35,7 @@ public class collectionsPratice {
             }
         }
 
+        // 1000d
         double rate = times / (1000d * 1000);
         System.out.println(rate);
     }

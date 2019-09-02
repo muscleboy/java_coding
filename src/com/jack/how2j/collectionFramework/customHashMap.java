@@ -122,6 +122,7 @@ public class customHashMap implements IHashMap{
     public static List<Heros> findItemByMap(customHashMap map){
 
         long start = System.currentTimeMillis();
+        // 将所有hero-5555添加到一个List中
         List<Heros> result = (List<Heros>) map.get("hero-5555");
         long end = System.currentTimeMillis();
         System.out.printf("通过Map查找，找到了%d个, 花费了%d毫秒%n", result.size(), end - start);
@@ -129,7 +130,7 @@ public class customHashMap implements IHashMap{
     }
 
     public static int random(){
-        return ((int)(Math.random()*9000)+1000);
+        return ((int)(Math.random() * 9000) + 1000);
     }
 
     public static void main(String[] args) {
@@ -144,7 +145,7 @@ public class customHashMap implements IHashMap{
 
         List<Heros> hs = new ArrayList<>();
         System.out.println("初始化开始");
-        for (int i = 0; i < 1000 * 1000; i++) {
+        for (int i = 0; i < 10000 * 100; i++) {
             Heros h = new Heros("hero-" + random());
             hs.add(h);
         }
@@ -153,13 +154,17 @@ public class customHashMap implements IHashMap{
 
        for (Heros h : hs) {
            List<Heros> list = (List<Heros>) map.get(h.name);
+           // 把所有名字相同 的添加到一个List里
            if (list == null) {
                list = new ArrayList<>();
+//               key 放 h.name, value 放名字相同的list
                map.put(h.name, list);
            }
            list.add(h);
+//           System.out.println(list);
        }
 
+//        System.out.println(map);
         System.out.println("初始化完成，开始查找。。。。");
         findItemByFor(hs);
         findItemByMap(map);

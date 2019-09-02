@@ -4,7 +4,7 @@ package com.jack.how2j.array;
  * Create with IDEA.
  *
  * @Package: com.jack.how2j.array
- * @Description:
+ * @Description: 选择正排，冒泡倒排
  * @Date: 2019/4/11 19:30
  * @Author: Wyj
  */
